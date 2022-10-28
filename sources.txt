@@ -1,0 +1,3 @@
+datasets:
+	crypto: https://coinmetrics.io/community-network-data/
+	sp500: https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks
