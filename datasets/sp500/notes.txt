@@ -1,0 +1,6 @@
+Most valuable companies:
+	MCD	McDonald's Corporation 0,5866%
+	TMUS	T-Mobile US, Inc. 0,5348%
+	NFLX	Netflix, Inc. 0,3466%
+	ADP	Automatic Data Processing, Inc. 0,3009%
+	AMT	American Tower Corporation 0,2927%

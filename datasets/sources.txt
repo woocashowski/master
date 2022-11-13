@@ -1,4 +1,4 @@
 datasets:
-	crypto: https://coinmetrics.io/community-network-data/
-	sp500: https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks
-	https://www.kaggle.com/datasets/odins0n/monthly-gold-prices
+	crypto: https://coinmetrics.io/community-network-data/ (22.10.2022)
+	sp500: https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks (22.10.2022)
+	https://www.kaggle.com/datasets/odins0n/monthly-gold-prices (06.04.2022)
